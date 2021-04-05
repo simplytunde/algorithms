@@ -4,4 +4,4 @@
 2. [1108. Defanging an IP Address](./1108.md)
 3. [1480. Running Sum of 1d Array](./1480.md)
 4. [1672. Richest Customer Wealth](./1672.md)
-
+5. [1431. Kids With the Greatest Number of Candies](./1431.md)
